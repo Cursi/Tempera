@@ -54,7 +54,7 @@
 	"C": "Is that simple. How can't you understand ?!",
 	"F": "Okay, let me repeat the idea.",
 	"S": "Alright. Let's think this in another way !",
-	"M": "I'm disappointed...is to easy to understand this."
+	"M": "I'm disappointed...is too easy to understand this."
 	}, // 4
 	{
 	"Q": "Your boss is asking you for the state of your unfinished project. What would you say ?",
